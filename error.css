@@ -32,15 +32,7 @@ h3 {
   text-align: default;
   font-family: Arial;
   font-size: 31px;
-}
-.body {
-    background-image: url ("gradient.jpg");
-}
-.homediv {
-    position: absolute;
-    left: 50px;
-    top: 50px;
-}
+
 .centered {
   font-family: "Trebuchet MS";
   font-size: 20px;
