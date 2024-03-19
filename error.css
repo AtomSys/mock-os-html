@@ -1,0 +1,48 @@
+h1 {
+    text-align: default;
+    font-family: Arial;
+    font-weight: default;
+    font-size: 63px;
+}
+p, b, i, li, span {
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+  text-align: default;
+}
+a:link {
+  color: red;
+  text-align: center;
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+}
+a:visited {
+    color:#b30000;
+} 
+a:hover {
+  color: grey;
+}
+h2 {
+  color: black;
+  text-align: default;
+  font-family: Arial;
+  font-size: 42px;
+}
+h3 {
+  color: black;
+  text-align: default;
+  font-family: Arial;
+  font-size: 31px;
+}
+.body {
+    background-image: url ("gradient.jpg");
+}
+.homediv {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.centered {
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+  text-align: default;
+}
