@@ -1,3 +1,3 @@
 function tabcreate() {
-  // wip
+  console.log("Tab creation currently not supported")
 }
