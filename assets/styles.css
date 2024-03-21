@@ -14,3 +14,7 @@
 .darkmode {
   color: white;
 }
+
+#username, #pass {
+  border-radius: 20;
+}
