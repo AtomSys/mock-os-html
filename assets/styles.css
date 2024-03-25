@@ -18,3 +18,8 @@
 #username, #pass {
   border-radius: 20;
 }
+
+.name-display {
+  font-family: 'Courier New', monospace;
+  font-size: 60px;
+}
